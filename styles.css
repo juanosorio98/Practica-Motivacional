@@ -1,0 +1,50 @@
+
+body {
+    background-color: #000000;
+    color: #333;
+    line-height: 1.6;
+}
+
+main {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+
+h1{
+    text-align: center;
+    color: #faf8f8;
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-style: italic;
+}
+h2 {
+    text-align: center;
+    font-size: 0.9rem;
+    color: #faf8f8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 30;
+    font-style: italic;
+}
+
+
+img {
+    display: block;
+    margin: 1rem auto 0 auto;
+    width: 70%;
+    border-radius: 10px;
+    margin-top: 5rem;
+    border: 2px solid #faf8f8;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #000000;
+    border-top: 1px solid #000000;
+    font-size: 0.5rem;
+    color: #fffefe;
+    font-style: italic;
+}
